@@ -1,0 +1,69 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Force these files to be CRLF on checkout
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+# Force these files to be LF on checkout
+*.sh text eol=lf
+
+# Binary files that should not be modified
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.exe binary
+*.dll binary
+*.class binary
+*.jar binary
+*.war binary
+*.ear binary
+*.zip binary
+*.tar.gz binary
+*.tgz binary
+*.7z binary
+*.dat binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
+*.log binary
+*.gz binary
+*.bz2 binary
+*.xz binary
+*.mp3 binary
+*.wav binary
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.flv binary
+*.wmv binary
+*.webm binary
+*.mkv binary
+*.srt binary
+*.sub binary
+*.idx binary
+*.rar binary
+*.7z binary
+*.jar binary
+*.war binary
+*.ear binary
+*.dll binary
+*.exe binary
+*.class binary
+*.psd binary
+*.ai binary
+*.xcf binary
+*.sketch binary
+*.fig binary
+*.ico binary
+*.icns binary
