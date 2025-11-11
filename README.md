@@ -1,59 +1,127 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nirvana&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nirvana&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Nirvana Banner" />
 
-[![Node.js][node-shield]](#)
-[![Discord.js][discordjs-shield]](#)
-[![License][license-shield]](license-url)
-[![Support Server][support-shield]][support-url]
-[![Version][version-shield]](#)
-[![Contributors][contributors-shield]][contributors-url]
-[![Stars][stars-shield]][stars-url]
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://nodejs.org/">
+      <img src="https://img.shields.io/badge/Node.js-v18%2B-339933?logo=node.js&logoColor=white" alt="Node.js">
+    </a>
+    <a href="https://discord.js.org/">
+      <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?logo=discord&logoColor=white" alt="Discord.js">
+    </a>
+    <a href="https://github.com/siddhantabhang/NirvanaSrc/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/siddhantabhang/NirvanaSrc?color=blue" alt="License">
+    </a>
+    <a href="https://github.com/siddhantabhang/NirvanaSrc/stargazers">
+      <img src="https://img.shields.io/github/stars/siddhantabhang/NirvanaSrc?color=yellow" alt="Stars">
+    </a>
+    <a href="https://github.com/siddhantabhang/NirvanaSrc/network/members">
+      <img src="https://img.shields.io/github/forks/siddhantabhang/NirvanaSrc?color=green" alt="Forks">
+    </a>
+  </p>
 
-<br />
+  <!-- Logo -->
+  <img src="nirvana.jpg" alt="Nirvana Logo" width="200" style="border-radius: 50%; margin: 20px 0; border: 5px solid #7289DA" />
 
-<p align="center">
-  <a href="https://discord.gg/9bWCU6VPEM">
-    <img src="nirvana.jpg" alt="Nirvana" width="200" height="200">
-  </a>
-</p>
+  <!-- Title -->
+  <h1>Nirvana</h1>
+  <h3>🎵 A High-Quality Discord Music Bot</h3>
+  <p>Experience crystal clear audio, powerful features, and seamless performance</p>
 
-<h1 align="center">Nirvana</h1>
-
-<p align="center">
-  <b>Nirvana — A Quality Music Bot that Makes You Feel the Music and its Beats.</b><br>
-  Your go-to bot for instant tunes, harmonic brilliance, and personalized playlists.<br>
-  <br />
-  <a href="https://discord.com/oauth2/authorize?client_id=1044688839005966396&permissions=8&scope=bot">Invite Nirvana</a>
-  ·
-  <a href="https://discord.gg/9bWCU6VPEM">Join Support Server</a>
-</p>
+  <!-- Buttons -->
+  <p>
+    <a href="https://discord.com/oauth2/authorize?client_id=1044688839005966396&permissions=8&scope=bot%20applications.commands">
+      <img src="https://img.shields.io/badge/Invite-Bot-7289DA?style=for-the-badge&logo=discord" alt="Invite Bot">
+    </a>
+    <a href="https://discord.gg/9bWCU6VPEM">
+      <img src="https://img.shields.io/badge/Join-Support_Server-7289DA?style=for-the-badge&logo=discord" alt="Support Server">
+    </a>
+    <a href="https://github.com/siddhantabhang/NirvanaSrc/issues">
+      <img src="https://img.shields.io/badge/Report-Issue-FF0000?style=for-the-badge&logo=github" alt="Report Issue">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🌟 Features
+## ✨ Key Features
 
-- 🎧 **Crystal Clear Audio Quality**
-- 🎵 **Supports Multiple Platforms** – YouTube, Spotify, SoundCloud, and more
-- 🛠️ **Slash Command & Context Menu Support**
-- 🪄 **Smart AutoPlay & 24/7 Mode**
-- 💾 **Playlist Creation & Management**
-- 🌐 **Multi-language Support**
-- 🎛️ **Advanced Filters** (Bass Boost, Nightcore, Vaporwave, etc.)
-- 🔒 **Owner & DJ Role System**
-- ⚙️ **Easy to Setup, Lightweight & Fast**
+### 🎵 Music Features
+- 🎧 Crystal Clear Audio Quality (Opus 256kbps)
+- 🌐 Multi-Platform Support (YouTube, Spotify, SoundCloud, Apple Music, and more)
+- 🔄 24/7 Music Playback with Auto-Reconnect
+- 🎚️ Advanced Audio Filters (Bass Boost, Nightcore, Vaporwave, etc.)
+- 🔄 Auto-Play & Queue System
+- 📻 Radio Stations Support
+- 📻 Live Stream Support
+
+### 🤖 Bot Features
+- 💾 Playlist Management (Save, Load, Delete)
+- 🎛️ DJ Role System with Custom Permissions
+- 📊 Server Statistics & Music Analytics
+- 🎨 Customizable Embeds & Messages
+- ⚡ Fast & Lightweight
+- 🔒 Secure & Private
+- 📱 Mobile-Friendly Controls
+
+### 🛠️ Developer Friendly
+- 🔄 Easy to Deploy
+- 📝 Well-Documented Code
+- 🧩 Modular Architecture
+- 🔄 Auto-Updating System
+- 🛡️ Built-in Error Handling
 
 ---
 
-## 🧠 Requirements
+## 🚀 Quick Start
 
-Before installing Nirvana, make sure you have the following:
+### Prerequisites
+- [Node.js](https://nodejs.org/) v18 or higher
+- [Lavalink](https://github.com/lavalink-devs/Lavalink) server (v4+)
+- Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/applications)
 
-- ![Node.js](https://img.shields.io/badge/Node.js-v20.11.1-green?logo=node.js) [Node.js LTS or higher](https://nodejs.org/)
-- ![Lavalink](https://img.shields.io/badge/Lavalink-v4%2B-blue?logo=discord&logoColor=white) [Lavalink Server](https://github.com/lavalink-devs/Lavalink)
+### Installation
 
-### Optional:
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/siddhantabhang/NirvanaSrc.git
+   cd NirvanaSrc
+   ```
 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) [For persistent playlists or settings](https://www.mongodb.com/try/download/community)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) [For containerized deployment](https://www.docker.com/)
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Configure the bot**
+   ```bash
+   cp .env.example .env
+   # Edit the .env file with your credentials
+   ```
+
+4. **Start the bot**
+   ```bash
+   npm start
+   ```
+
+### 🐳 Docker Installation
+
+```bash
+docker-compose up -d
+```
+
+## 📦 Dependencies
+
+### Core
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [Discord.js](https://discord.js.org/) - Discord API library
+- [Erela.js](https://github.com/MenuDocs/erela.js) - Music manager
+- [MongoDB](https://www.mongodb.com/) - Database (optional)
+
+### Development
+- [TypeScript](https://www.typescriptlang.org/) - Type checking
+- [ESLint](https://eslint.org/) - Code linting
+- [Prettier](https://prettier.io/) - Code formatting
 
 ---
 
