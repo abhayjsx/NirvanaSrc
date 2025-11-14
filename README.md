@@ -1,8 +1,6 @@
-# Nirvana
-
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nirvana&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-[![node](https://img.shields.io/badge/node-v18.0.0-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-Nirvana Old.0-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/R35fpSXCR3)
+[![node](https://img.shields.io/badge/node-v18.0.0-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-Nirvana-Old.0-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/R35fpSXCR3)
 
 <br />
 
