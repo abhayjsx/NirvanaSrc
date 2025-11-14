@@ -2,18 +2,12 @@
 
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nirvana&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-[![Node.js][node-shield]](#)
-[![Discord.js][discordjs-shield]](#)
-[![License][license-shield]](license-url)
-[![Support Server][support-shield]][support-url]
-[![Version][version-shield]](#)
-[![Contributors][contributors-shield]][contributors-url]
-[![Stars][stars-shield]][stars-url]
+[![node](https://img.shields.io/badge/node-v18.0.0-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-Nirvana Old.0-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/R35fpSXCR3)
 
 <br />
 
 <p align="center">
-  <a href="https://discord.gg/9bWCU6VPEM">
+  <a href="https://discord.gg/R35fpSXCR3">
     <img src="nirvana.jpg" alt="Nirvana" width="200" height="200">
   </a>
 </p>
@@ -24,9 +18,9 @@
   <b>Nirvana — A Quality Music Bot that Makes You Feel the Music and its Beats.</b><br>
   Your go-to bot for instant tunes, harmonic brilliance, and personalized playlists.<br>
   <br />
-  <a href="https://discord.com/oauth2/authorize?client_id=1044688839005966396&permissions=8&scope=bot">Invite Nirvana</a>
+  <a href="https://discord.com/oauth2/authorize?client_id=977239244898730064&permissions=8&scope=bot">Invite Nirvana</a>
   ·
-  <a href="https://discord.gg/9bWCU6VPEM">Join Support Server</a>
+  <a href="https://discord.gg/R35fpSXCR3">Join Support Server</a>
 </p>
 
 ---
@@ -98,7 +92,7 @@ npm start
 
 ### 6. Invite Nirvana to Your Server
 
-[Invite Link](https://discord.com/oauth2/authorize?client_id=1044688839005966396&permissions=8&scope=bot)
+[Invite Link](https://discord.com/oauth2/authorize?client_id=977239244898730064&permissions=8&scope=bot)
 
 ---
 
@@ -137,7 +131,7 @@ docker image prune -f
 
 ## 📢 Support
 
-Join our Discord: [https://discord.gg/9bWCU6VPEM](https://discord.gg/9bWCU6VPEM)
+Join our Discord: [https://discord.gg/R35fpSXCR3](https://discord.gg/R35fpSXCR3S)
 
 Or open an issue: [https://github.com/abhay/Nirvana/issues](https://github.com/abhay/Nirvana/issues)
 
@@ -180,7 +174,7 @@ Distributed under the **MIT License**.
 [license-shield]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge
 [license-url]: ./LICENSE
 [support-shield]: https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white&style=for-the-badge
-[support-url]: https://discord.gg/9bWCU6VPEM
+[support-url]: https://discord.gg/R35fpSXCR3
 [contributors-shield]: https://img.shields.io/github/contributors/abhay/Nirvana?style=for-the-badge
 [contributors-url]: https://github.com/abhay/Nirvana/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/abhay/Nirvana.svg?style=for-the-badge
